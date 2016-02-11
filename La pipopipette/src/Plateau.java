@@ -69,7 +69,7 @@ public class Plateau {
 					}
 				}
 			}
-
+			System.out.println();
 		}
 		return chaine;
 	}
